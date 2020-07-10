@@ -41,6 +41,7 @@ Improvements
 - Improved the maintainability of the fitting code in the Muon Analysis interface by removing redundant and duplicated code.
   These changes will make the addition of new functionality in the future easier.
 - The plot guess option within the fitting tab will now update when a parameter is changed.
+- Updated :ref:`DoublePulseFit <algm-DoublePulseFit>` to allow composite function input.
 
 Bug fixes
 ---------
