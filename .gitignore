@@ -1,5 +1,5 @@
 # Took these from the https://github.com/github/gitignore project on October 21, 2011
-
+#
 # **** 'Personal' entries don't belong in here - put them in your .git/info/exclude file ****
 
 # Ignore text editor (e.g. emacs) autosave files
